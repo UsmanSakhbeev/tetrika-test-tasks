@@ -31,8 +31,8 @@
 1. **Склонировать** репозиторий:
 
    ```bash
-   git clone https://github.com/UsmanSakhbeev/tetrika_tests
-   cd tetrika_tests
+   git clone https://github.com/UsmanSakhbeev/tetrika-test-tasks
+   cd tetrika-test-tasks
    ```
 2. **Создать и активировать** виртуальное окружение (рекомендуется):
 
